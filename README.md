@@ -1,5 +1,7 @@
 # YOLO 物体识别服务
 
+[English Documentation](./README.en.md)
+
 基于 YOLOv8 的物体检测 Web 服务，提供图片、视频和实时摄像头中的物体检测功能，支持 COCO 数据集的 80 种常见物体类别。
 
 ## 功能特点
