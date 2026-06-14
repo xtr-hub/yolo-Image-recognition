@@ -6,6 +6,7 @@
 [![API](https://img.shields.io/badge/API-%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3-green?style=flat-square)](docs/api/index.md)
 [![COCO](https://img.shields.io/badge/COCO-%E7%B1%BB%E5%88%AB%E5%88%97%E8%A1%A8-orange?style=flat-square)](docs/reference/coco-classes.md)
 [![FAQ](https://img.shields.io/badge/FAQ-%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4-yellow?style=flat-square)](docs/reference/faq.md)
+[![Contributing](https://img.shields.io/badge/Contributing-%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97-purple?style=flat-square)](CONTRIBUTING.md)
 [![English](https://img.shields.io/badge/English-Documentation-red?style=flat-square)](README.en.md)
 
 ## 核心功能
