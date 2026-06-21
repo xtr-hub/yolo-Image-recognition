@@ -1,12 +1,12 @@
-# COCO 数据集类别
+# COCO Dataset Classes
 
 [![中文](https://img.shields.io/badge/中文-COCO%20类别-red?style=flat-square)](coco-classes.md)
 [![English](https://img.shields.io/badge/English-COCO%20Classes-red?style=flat-square)](coco-classes.en.md)
 
-支持 80 种常见物体类别：
+Supports 80 common object classes:
 
-| ID | 类别 | ID | 类别 | ID | 类别 | ID | 类别 |
-|----|------|----|------|----|------|----|------|
+| ID | Class | ID | Class | ID | Class | ID | Class |
+|----|-------|----|-------|----|-------|----|-------|
 | 0 | person | 1 | bicycle | 2 | car | 3 | motorcycle |
 | 4 | airplane | 5 | bus | 6 | train | 7 | truck |
 | 8 | boat | 9 | traffic light | 10 | fire hydrant | 11 | stop sign |
@@ -28,4 +28,4 @@
 | 72 | refrigerator | 73 | book | 74 | clock | 75 | vase |
 | 76 | scissors | 77 | teddy bear | 78 | hair drier | 79 | toothbrush |
 
-完整类别定义见 `app/models/detector.py` 中的 `COCO_CLASSES` 字典。
+See `COCO_CLASSES` dictionary in `app/models/detector.py` for complete class definitions.

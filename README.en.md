@@ -2,11 +2,11 @@
 
 A Web service based on YOLOv8 for object detection in images, videos, and real-time cameras, supporting 80 classes from the COCO dataset.
 
-[![Quick Start](https://img.shields.io/badge/Quick%20Start-Start%20Now-blue?style=flat-square)](docs/guides/quick-start.md)
-[![API](https://img.shields.io/badge/API-Documentation-green?style=flat-square)](docs/api/index.md)
-[![COCO](https://img.shields.io/badge/COCO-Classes-orange?style=flat-square)](docs/reference/coco-classes.md)
-[![FAQ](https://img.shields.io/badge/FAQ-Common%20Questions-yellow?style=flat-square)](docs/reference/faq.md)
-[![Contributing](https://img.shields.io/badge/Contributing-How%20to%20Contribute-purple?style=flat-square)](CONTRIBUTING.md)
+[![Quick Start](https://img.shields.io/badge/Quick%20Start-Start%20Now-blue?style=flat-square)](docs/guides/quick-start.en.md)
+[![API](https://img.shields.io/badge/API-Documentation-green?style=flat-square)](docs/api/index.en.md)
+[![COCO](https://img.shields.io/badge/COCO-Classes-orange?style=flat-square)](docs/reference/coco-classes.en.md)
+[![FAQ](https://img.shields.io/badge/FAQ-Common%20Questions-yellow?style=flat-square)](docs/reference/faq.en.md)
+[![Contributing](https://img.shields.io/badge/Contributing-How%20to%20Contribute-purple?style=flat-square)](CONTRIBUTING.en.md)
 [![中文](https://img.shields.io/badge/中文-中文文档-red?style=flat-square)](README.md)
 
 ## Features

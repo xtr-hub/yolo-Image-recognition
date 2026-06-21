@@ -1,5 +1,8 @@
 # 快速开始
 
+[![中文](https://img.shields.io/badge/中文-快速开始-red?style=flat-square)](quick-start.md)
+[![English](https://img.shields.io/badge/English-Quick%20Start-red?style=flat-square)](quick-start.en.md)
+
 ## 环境准备
 
 确保已安装 Python 3.8 或更高版本，并安装依赖：

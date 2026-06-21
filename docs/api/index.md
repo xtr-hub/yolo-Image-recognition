@@ -1,5 +1,8 @@
 # API 文档
 
+[![中文](https://img.shields.io/badge/中文-API%20文档-red?style=flat-square)](index.md)
+[![English](https://img.shields.io/badge/English-API%20Documentation-red?style=flat-square)](index.en.md)
+
 ## 健康检查
 
 ```

@@ -1,5 +1,8 @@
 # 贡献指南
 
+[![中文](https://img.shields.io/badge/中文-贡献指南-red?style=flat-square)](CONTRIBUTING.md)
+[![English](https://img.shields.io/badge/English-Contributing%20Guide-red?style=flat-square)](CONTRIBUTING.en.md)
+
 感谢你对本项目的关注！欢迎通过 Issue、Pull Request 或文档改进参与贡献。
 
 ## 开始之前

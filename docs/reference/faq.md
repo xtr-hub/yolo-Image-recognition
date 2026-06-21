@@ -1,5 +1,8 @@
 # 故障排除
 
+[![中文](https://img.shields.io/badge/中文-故障排除-red?style=flat-square)](faq.md)
+[![English](https://img.shields.io/badge/English-Troubleshooting-red?style=flat-square)](faq.en.md)
+
 ## 常见问题
 
 ### 模型下载失败
